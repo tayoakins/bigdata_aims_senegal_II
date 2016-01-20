@@ -16,3 +16,6 @@ The course is strongly inspired by the following books and websites :
 - "Bayesian Reasoning and Machine Learning" by D. Barber
 - "Introduction to Machine Learning - 2nd Edition" by E. Alpaydin
 - "Introduction to Machine Learning" by A. Smola and S.V.N Vishwanathan
+
+Youtube Playlist for MIT lectures :
+https://www.youtube.com/watch?v=TjZBTDzGeGg&index=2&list=PLnvKubj2-I2LhIibS8TOGC42xsD3-liux
